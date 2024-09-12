@@ -1,0 +1,1249 @@
+HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+Manchester City,Napoli,2011-2012,1,1,2
+Villarreal,Bayern Munich,2011-2012,0,2,2
+Bayern Munich,Manchester City,2011-2012,2,0,2
+Napoli,Villarreal,2011-2012,2,0,2
+Napoli,Bayern Munich,2011-2012,1,1,2
+Manchester City,Villarreal,2011-2012,2,1,3
+Bayern Munich,Napoli,2011-2012,3,2,5
+Villarreal,Manchester City,2011-2012,0,3,3
+Napoli,Manchester City,2011-2012,2,1,3
+Bayern Munich,Villarreal,2011-2012,3,1,4
+Manchester City,Bayern Munich,2011-2012,2,0,2
+Villarreal,Napoli,2011-2012,0,2,2
+Lille,CSKA Moscow,2011-2012,2,2,4
+Internazionale,Trabzonspor,2011-2012,0,1,1
+CSKA Moscow,Internazionale,2011-2012,2,3,5
+Trabzonspor,Lille,2011-2012,1,1,2
+CSKA Moscow,Trabzonspor,2011-2012,3,0,3
+Lille,Internazionale,2011-2012,0,1,1
+Trabzonspor,CSKA Moscow,2011-2012,0,0,0
+Internazionale,Lille,2011-2012,2,1,3
+CSKA Moscow,Lille,2011-2012,0,2,2
+Trabzonspor,Internazionale,2011-2012,1,1,2
+Lille,Trabzonspor,2011-2012,0,0,0
+Internazionale,CSKA Moscow,2011-2012,1,2,3
+Basel,Oțelul Galați,2011-2012,2,1,3
+Benfica,Manchester United,2011-2012,1,1,2
+Manchester United,Basel,2011-2012,3,3,6
+Oțelul Galați,Benfica,2011-2012,0,1,1
+Oțelul Galați,Manchester United,2011-2012,0,2,2
+Basel,Benfica,2011-2012,0,2,2
+Manchester United,Oțelul Galați,2011-2012,2,0,2
+Benfica,Basel,2011-2012,1,1,2
+Oțelul Galați,Basel,2011-2012,2,3,5
+Manchester United,Benfica,2011-2012,2,2,4
+Basel,Manchester United,2011-2012,2,1,3
+Benfica,Oțelul Galați,2011-2012,1,0,1
+Dinamo Zagreb,Real Madrid,2011-2012,0,1,1
+Ajax,Lyon,2011-2012,0,0,0
+Lyon,Dinamo Zagreb,2011-2012,2,0,2
+Real Madrid,Ajax,2011-2012,3,0,3
+Real Madrid,Lyon,2011-2012,4,0,4
+Dinamo Zagreb,Ajax,2011-2012,0,2,2
+Lyon,Real Madrid,2011-2012,0,2,2
+Ajax,Dinamo Zagreb,2011-2012,4,0,4
+Real Madrid,Dinamo Zagreb,2011-2012,6,2,8
+Lyon,Ajax,2011-2012,0,0,0
+Dinamo Zagreb,Lyon,2011-2012,1,7,8
+Ajax,Real Madrid,2011-2012,0,3,3
+Chelsea,Bayer Leverkusen,2011-2012,2,0,2
+Genk,Valencia,2011-2012,0,0,0
+Valencia,Chelsea,2011-2012,1,1,2
+Bayer Leverkusen,Genk,2011-2012,2,0,2
+Bayer Leverkusen,Valencia,2011-2012,2,1,3
+Chelsea,Genk,2011-2012,5,0,5
+Valencia,Bayer Leverkusen,2011-2012,3,1,4
+Genk,Chelsea,2011-2012,1,1,2
+Bayer Leverkusen,Chelsea,2011-2012,2,1,3
+Valencia,Genk,2011-2012,7,0,7
+Chelsea,Valencia,2011-2012,3,0,3
+Genk,Bayer Leverkusen,2011-2012,1,1,2
+Olympiacos,Marseille,2011-2012,0,1,1
+Borussia Dortmund,Arsenal,2011-2012,1,1,2
+Arsenal,Olympiacos,2011-2012,2,1,3
+Marseille,Borussia Dortmund,2011-2012,3,0,3
+Marseille,Arsenal,2011-2012,0,1,1
+Olympiacos,Borussia Dortmund,2011-2012,3,1,4
+Arsenal,Marseille,2011-2012,0,0,0
+Borussia Dortmund,Olympiacos,2011-2012,1,0,1
+Marseille,Olympiacos,2011-2012,0,1,1
+Arsenal,Borussia Dortmund,2011-2012,2,1,3
+Olympiacos,Arsenal,2011-2012,3,1,4
+Borussia Dortmund,Marseille,2011-2012,2,3,5
+Porto,Shakhtar Donetsk,2011-2012,2,1,3
+APOEL,Zenit Saint Petersburg,2011-2012,2,1,3
+Zenit Saint Petersburg,Porto,2011-2012,3,1,4
+Shakhtar Donetsk,APOEL,2011-2012,1,1,2
+Shakhtar Donetsk,Zenit Saint Petersburg,2011-2012,2,2,4
+Porto,APOEL,2011-2012,1,1,2
+Zenit Saint Petersburg,Shakhtar Donetsk,2011-2012,1,0,1
+APOEL,Porto,2011-2012,2,1,3
+Zenit Saint Petersburg,APOEL,2011-2012,0,0,0
+Shakhtar Donetsk,Porto,2011-2012,0,2,2
+Porto,Zenit Saint Petersburg,2011-2012,0,0,0
+APOEL,Shakhtar Donetsk,2011-2012,0,2,2
+Barcelona,Milan,2011-2012,2,2,4
+Viktoria Plzeň,BATE Borisov,2011-2012,1,1,2
+BATE Borisov,Barcelona,2011-2012,0,5,5
+Milan,Viktoria Plzeň,2011-2012,2,0,2
+Milan,BATE Borisov,2011-2012,2,0,2
+Barcelona,Viktoria Plzeň,2011-2012,2,0,2
+BATE Borisov,Milan,2011-2012,1,1,2
+Viktoria Plzeň,Barcelona,2011-2012,0,4,4
+BATE Borisov,Viktoria Plzeň,2011-2012,0,1,1
+Milan,Barcelona,2011-2012,2,3,5
+Barcelona,BATE Borisov,2011-2012,4,0,4
+Viktoria Plzeň,Milan,2011-2012,2,2,4
+Dinamo Zagreb,Porto,2012-2013,0,2,2
+Paris Saint-Germain,Dynamo Kyiv,2012-2013,4,1,5
+Dynamo Kyiv,Dinamo Zagreb,2012-2013,2,0,2
+Porto,Paris Saint-Germain,2012-2013,1,0,1
+Porto,Dynamo Kyiv,2012-2013,3,2,5
+Dinamo Zagreb,Paris Saint-Germain,2012-2013,0,2,2
+Dynamo Kyiv,Porto,2012-2013,0,0,0
+Paris Saint-Germain,Dinamo Zagreb,2012-2013,4,0,4
+Porto,Dinamo Zagreb,2012-2013,3,0,3
+Dynamo Kyiv,Paris Saint-Germain,2012-2013,0,2,2
+Dinamo Zagreb,Dynamo Kyiv,2012-2013,1,1,2
+Paris Saint-Germain,Porto,2012-2013,2,1,3
+Montpellier,Arsenal,2012-2013,1,2,3
+Olympiacos,Schalke 04,2012-2013,1,2,3
+Schalke 04,Montpellier,2012-2013,2,2,4
+Arsenal,Olympiacos,2012-2013,3,1,4
+Arsenal,Schalke 04,2012-2013,0,2,2
+Montpellier,Olympiacos,2012-2013,1,2,3
+Schalke 04,Arsenal,2012-2013,2,2,4
+Olympiacos,Montpellier,2012-2013,3,1,4
+Arsenal,Montpellier,2012-2013,2,0,2
+Schalke 04,Olympiacos,2012-2013,1,0,1
+Montpellier,Schalke 04,2012-2013,1,1,2
+Olympiacos,Arsenal,2012-2013,2,1,3
+Málaga,Zenit Saint Petersburg,2012-2013,3,0,3
+Milan,Anderlecht,2012-2013,0,0,0
+Zenit Saint Petersburg,Milan,2012-2013,2,3,5
+Anderlecht,Málaga,2012-2013,0,3,3
+Zenit Saint Petersburg,Anderlecht,2012-2013,1,0,1
+Málaga,Milan,2012-2013,1,0,1
+Anderlecht,Zenit Saint Petersburg,2012-2013,1,0,1
+Milan,Málaga,2012-2013,1,1,2
+Zenit Saint Petersburg,Málaga,2012-2013,2,2,4
+Anderlecht,Milan,2012-2013,1,3,4
+Málaga,Anderlecht,2012-2013,2,2,4
+Milan,Zenit Saint Petersburg,2012-2013,0,1,1
+Borussia Dortmund,Ajax,2012-2013,1,0,1
+Real Madrid,Manchester City,2012-2013,3,2,5
+Manchester City,Borussia Dortmund,2012-2013,1,1,2
+Ajax,Real Madrid,2012-2013,1,4,5
+Ajax,Manchester City,2012-2013,3,1,4
+Borussia Dortmund,Real Madrid,2012-2013,2,1,3
+Manchester City,Ajax,2012-2013,2,2,4
+Real Madrid,Borussia Dortmund,2012-2013,2,2,4
+Ajax,Borussia Dortmund,2012-2013,1,4,5
+Manchester City,Real Madrid,2012-2013,1,1,2
+Borussia Dortmund,Manchester City,2012-2013,1,0,1
+Real Madrid,Ajax,2012-2013,4,1,5
+Shakhtar Donetsk,FC Nordsjælland,2012-2013,2,0,2
+Chelsea,Juventus,2012-2013,2,2,4
+Juventus,Shakhtar Donetsk,2012-2013,1,1,2
+FC Nordsjælland,Chelsea,2012-2013,0,4,4
+FC Nordsjælland,Juventus,2012-2013,1,1,2
+Shakhtar Donetsk,Chelsea,2012-2013,2,1,3
+Juventus,FC Nordsjælland,2012-2013,4,0,4
+Chelsea,Shakhtar Donetsk,2012-2013,3,2,5
+FC Nordsjælland,Shakhtar Donetsk,2012-2013,2,5,7
+Juventus,Chelsea,2012-2013,3,0,3
+Shakhtar Donetsk,Juventus,2012-2013,0,1,1
+Chelsea,FC Nordsjælland,2012-2013,6,1,7
+Lille,BATE Borisov,2012-2013,1,3,4
+Bayern Munich,Valencia,2012-2013,2,1,3
+Valencia,Lille,2012-2013,2,0,2
+BATE Borisov,Bayern Munich,2012-2013,3,1,4
+BATE Borisov,Valencia,2012-2013,0,3,3
+Lille,Bayern Munich,2012-2013,0,1,1
+Valencia,BATE Borisov,2012-2013,4,2,6
+Bayern Munich,Lille,2012-2013,6,1,7
+BATE Borisov,Lille,2012-2013,0,2,2
+Valencia,Bayern Munich,2012-2013,1,1,2
+Lille,Valencia,2012-2013,0,1,1
+Bayern Munich,BATE Borisov,2012-2013,4,1,5
+Barcelona,Spartak Moscow,2012-2013,3,2,5
+Celtic,Benfica,2012-2013,0,0,0
+Spartak Moscow,Celtic,2012-2013,2,3,5
+Benfica,Barcelona,2012-2013,0,2,2
+Spartak Moscow,Benfica,2012-2013,2,1,3
+Barcelona,Celtic,2012-2013,2,1,3
+Benfica,Spartak Moscow,2012-2013,2,0,2
+Celtic,Barcelona,2012-2013,2,1,3
+Spartak Moscow,Barcelona,2012-2013,0,3,3
+Benfica,Celtic,2012-2013,2,1,3
+Barcelona,Benfica,2012-2013,0,0,0
+Celtic,Spartak Moscow,2012-2013,2,1,3
+Manchester United,Galatasaray,2012-2013,1,0,1
+Braga,CFR Cluj,2012-2013,0,2,2
+CFR Cluj,Manchester United,2012-2013,1,2,3
+Galatasaray,Braga,2012-2013,0,2,2
+Galatasaray,CFR Cluj,2012-2013,1,1,2
+Manchester United,Braga,2012-2013,3,2,5
+CFR Cluj,Galatasaray,2012-2013,1,3,4
+Braga,Manchester United,2012-2013,1,3,4
+Galatasaray,Manchester United,2012-2013,1,0,1
+CFR Cluj,Braga,2012-2013,3,1,4
+Manchester United,CFR Cluj,2012-2013,0,1,1
+Braga,Galatasaray,2012-2013,1,2,3
+Manchester United,Bayer Leverkusen,2013-2014,4,2,6
+Real Sociedad,Shakhtar Donetsk,2013-2014,0,2,2
+Shakhtar Donetsk,Manchester United,2013-2014,1,1,2
+Bayer Leverkusen,Real Sociedad,2013-2014,2,1,3
+Bayer Leverkusen,Shakhtar Donetsk,2013-2014,4,0,4
+Manchester United,Real Sociedad,2013-2014,1,0,1
+Shakhtar Donetsk,Bayer Leverkusen,2013-2014,0,0,0
+Real Sociedad,Manchester United,2013-2014,0,0,0
+Bayer Leverkusen,Manchester United,2013-2014,0,5,5
+Shakhtar Donetsk,Real Sociedad,2013-2014,4,0,4
+Manchester United,Shakhtar Donetsk,2013-2014,1,0,1
+Real Sociedad,Bayer Leverkusen,2013-2014,0,1,1
+Galatasaray,Real Madrid,2013-2014,1,6,7
+Copenhagen,Juventus,2013-2014,1,1,2
+Juventus,Galatasaray,2013-2014,2,2,4
+Real Madrid,Copenhagen,2013-2014,4,0,4
+Real Madrid,Juventus,2013-2014,2,1,3
+Galatasaray,Copenhagen,2013-2014,3,1,4
+Juventus,Real Madrid,2013-2014,2,2,4
+Copenhagen,Galatasaray,2013-2014,1,0,1
+Real Madrid,Galatasaray,2013-2014,4,1,5
+Juventus,Copenhagen,2013-2014,3,1,4
+Galatasaray,Juventus,2013-2014,1,0,1
+Copenhagen,Real Madrid,2013-2014,0,2,2
+Benfica,Anderlecht,2013-2014,2,0,2
+Olympiacos,Paris Saint-Germain,2013-2014,1,4,5
+Paris Saint-Germain,Benfica,2013-2014,3,0,3
+Anderlecht,Olympiacos,2013-2014,0,3,3
+Anderlecht,Paris Saint-Germain,2013-2014,0,5,5
+Benfica,Olympiacos,2013-2014,1,1,2
+Paris Saint-Germain,Anderlecht,2013-2014,1,1,2
+Olympiacos,Benfica,2013-2014,1,0,1
+Anderlecht,Benfica,2013-2014,2,3,5
+Paris Saint-Germain,Olympiacos,2013-2014,2,1,3
+Benfica,Paris Saint-Germain,2013-2014,2,1,3
+Olympiacos,Anderlecht,2013-2014,3,1,4
+Bayern Munich,CSKA Moscow,2013-2014,3,0,3
+Viktoria Plzeň,Manchester City,2013-2014,0,3,3
+CSKA Moscow,Viktoria Plzeň,2013-2014,3,2,5
+Manchester City,Bayern Munich,2013-2014,1,3,4
+CSKA Moscow,Manchester City,2013-2014,1,2,3
+Bayern Munich,Viktoria Plzeň,2013-2014,5,0,5
+Manchester City,CSKA Moscow,2013-2014,5,2,7
+Viktoria Plzeň,Bayern Munich,2013-2014,0,1,1
+CSKA Moscow,Bayern Munich,2013-2014,1,3,4
+Manchester City,Viktoria Plzeň,2013-2014,4,2,6
+Bayern Munich,Manchester City,2013-2014,2,3,5
+Viktoria Plzeň,CSKA Moscow,2013-2014,2,1,3
+Schalke 04,Steaua București,2013-2014,3,0,3
+Chelsea,Basel,2013-2014,1,2,3
+Basel,Schalke 04,2013-2014,0,1,1
+Steaua București,Chelsea,2013-2014,0,4,4
+Steaua București,Basel,2013-2014,1,1,2
+Schalke 04,Chelsea,2013-2014,0,3,3
+Basel,Steaua București,2013-2014,1,1,2
+Chelsea,Schalke 04,2013-2014,3,0,3
+Steaua București,Schalke 04,2013-2014,0,0,0
+Basel,Chelsea,2013-2014,1,0,1
+Schalke 04,Basel,2013-2014,2,0,2
+Chelsea,Steaua București,2013-2014,1,0,1
+Marseille,Arsenal,2013-2014,1,2,3
+Napoli,Borussia Dortmund,2013-2014,2,1,3
+Borussia Dortmund,Marseille,2013-2014,3,0,3
+Arsenal,Napoli,2013-2014,2,0,2
+Arsenal,Borussia Dortmund,2013-2014,1,2,3
+Marseille,Napoli,2013-2014,1,2,3
+Borussia Dortmund,Arsenal,2013-2014,0,1,1
+Napoli,Marseille,2013-2014,3,2,5
+Arsenal,Marseille,2013-2014,2,0,2
+Borussia Dortmund,Napoli,2013-2014,3,1,4
+Marseille,Borussia Dortmund,2013-2014,1,2,3
+Napoli,Arsenal,2013-2014,2,0,2
+Austria Wien,Porto,2013-2014,0,1,1
+Atlético Madrid,Zenit Saint Petersburg,2013-2014,3,1,4
+Zenit Saint Petersburg,Austria Wien,2013-2014,0,0,0
+Porto,Atlético Madrid,2013-2014,1,2,3
+Porto,Zenit Saint Petersburg,2013-2014,0,1,1
+Austria Wien,Atlético Madrid,2013-2014,0,3,3
+Zenit Saint Petersburg,Porto,2013-2014,1,1,2
+Atlético Madrid,Austria Wien,2013-2014,4,0,4
+Zenit Saint Petersburg,Atlético Madrid,2013-2014,1,1,2
+Porto,Austria Wien,2013-2014,1,1,2
+Austria Wien,Zenit Saint Petersburg,2013-2014,4,1,5
+Atlético Madrid,Porto,2013-2014,2,0,2
+Milan,Celtic,2013-2014,2,0,2
+Barcelona,Ajax,2013-2014,4,0,4
+Ajax,Milan,2013-2014,1,1,2
+Celtic,Barcelona,2013-2014,0,1,1
+Celtic,Ajax,2013-2014,2,1,3
+Milan,Barcelona,2013-2014,1,1,2
+Ajax,Celtic,2013-2014,1,0,1
+Barcelona,Milan,2013-2014,3,1,4
+Celtic,Milan,2013-2014,0,3,3
+Ajax,Barcelona,2013-2014,2,1,3
+Milan,Ajax,2013-2014,0,0,0
+Barcelona,Celtic,2013-2014,6,1,7
+Olympiacos,Atlético Madrid,2014-2015,3,2,5
+Juventus,Malmö FF,2014-2015,2,0,2
+Malmö FF,Olympiacos,2014-2015,2,0,2
+Atlético Madrid,Juventus,2014-2015,1,0,1
+Atlético Madrid,Malmö FF,2014-2015,5,0,5
+Olympiacos,Juventus,2014-2015,1,0,1
+Malmö FF,Atlético Madrid,2014-2015,0,2,2
+Juventus,Olympiacos,2014-2015,3,2,5
+Atlético Madrid,Olympiacos,2014-2015,4,0,4
+Malmö FF,Juventus,2014-2015,0,2,2
+Olympiacos,Malmö FF,2014-2015,4,2,6
+Juventus,Atlético Madrid,2014-2015,0,0,0
+Liverpool,Ludogorets Razgrad,2014-2015,2,1,3
+Real Madrid,Basel,2014-2015,5,1,6
+Basel,Liverpool,2014-2015,1,0,1
+Ludogorets Razgrad,Real Madrid,2014-2015,1,2,3
+Ludogorets Razgrad,Basel,2014-2015,1,0,1
+Liverpool,Real Madrid,2014-2015,0,3,3
+Basel,Ludogorets Razgrad,2014-2015,4,0,4
+Real Madrid,Liverpool,2014-2015,1,0,1
+Ludogorets Razgrad,Liverpool,2014-2015,2,2,4
+Basel,Real Madrid,2014-2015,0,1,1
+Liverpool,Basel,2014-2015,1,1,2
+Real Madrid,Ludogorets Razgrad,2014-2015,4,0,4
+Monaco,Bayer Leverkusen,2014-2015,1,0,1
+Benfica,Zenit Saint Petersburg,2014-2015,0,2,2
+Zenit Saint Petersburg,Monaco,2014-2015,0,0,0
+Bayer Leverkusen,Benfica,2014-2015,3,1,4
+Bayer Leverkusen,Zenit Saint Petersburg,2014-2015,2,0,2
+Monaco,Benfica,2014-2015,0,0,0
+Zenit Saint Petersburg,Bayer Leverkusen,2014-2015,1,2,3
+Benfica,Monaco,2014-2015,1,0,1
+Zenit Saint Petersburg,Benfica,2014-2015,1,0,1
+Bayer Leverkusen,Monaco,2014-2015,0,1,1
+Monaco,Zenit Saint Petersburg,2014-2015,2,0,2
+Benfica,Bayer Leverkusen,2014-2015,0,0,0
+Galatasaray,Anderlecht,2014-2015,1,1,2
+Borussia Dortmund,Arsenal,2014-2015,2,0,2
+Arsenal,Galatasaray,2014-2015,4,1,5
+Anderlecht,Borussia Dortmund,2014-2015,0,3,3
+Anderlecht,Arsenal,2014-2015,1,2,3
+Galatasaray,Borussia Dortmund,2014-2015,0,4,4
+Arsenal,Anderlecht,2014-2015,3,3,6
+Borussia Dortmund,Galatasaray,2014-2015,4,1,5
+Anderlecht,Galatasaray,2014-2015,2,0,2
+Arsenal,Borussia Dortmund,2014-2015,2,0,2
+Galatasaray,Arsenal,2014-2015,1,4,5
+Borussia Dortmund,Anderlecht,2014-2015,1,1,2
+Roma,CSKA Moscow,2014-2015,5,1,6
+Bayern Munich,Manchester City,2014-2015,1,0,1
+CSKA Moscow,Bayern Munich,2014-2015,0,1,1
+Manchester City,Roma,2014-2015,1,1,2
+CSKA Moscow,Manchester City,2014-2015,2,2,4
+Roma,Bayern Munich,2014-2015,1,7,8
+Manchester City,CSKA Moscow,2014-2015,1,2,3
+Bayern Munich,Roma,2014-2015,2,0,2
+CSKA Moscow,Roma,2014-2015,1,1,2
+Manchester City,Bayern Munich,2014-2015,3,2,5
+Roma,Manchester City,2014-2015,0,2,2
+Bayern Munich,CSKA Moscow,2014-2015,3,0,3
+Barcelona,APOEL,2014-2015,1,0,1
+Ajax,Paris Saint-Germain,2014-2015,1,1,2
+Paris Saint-Germain,Barcelona,2014-2015,3,2,5
+APOEL,Ajax,2014-2015,1,1,2
+APOEL,Paris Saint-Germain,2014-2015,0,1,1
+Barcelona,Ajax,2014-2015,3,1,4
+Paris Saint-Germain,APOEL,2014-2015,1,0,1
+Ajax,Barcelona,2014-2015,0,2,2
+APOEL,Barcelona,2014-2015,0,4,4
+Paris Saint-Germain,Ajax,2014-2015,3,1,4
+Barcelona,Paris Saint-Germain,2014-2015,3,1,4
+Ajax,APOEL,2014-2015,4,0,4
+Chelsea,Schalke 04,2014-2015,1,1,2
+Maribor,Sporting CP,2014-2015,1,1,2
+Sporting CP,Chelsea,2014-2015,0,1,1
+Schalke 04,Maribor,2014-2015,1,1,2
+Schalke 04,Sporting CP,2014-2015,4,3,7
+Chelsea,Maribor,2014-2015,6,0,6
+Sporting CP,Schalke 04,2014-2015,4,2,6
+Maribor,Chelsea,2014-2015,1,1,2
+Schalke 04,Chelsea,2014-2015,0,5,5
+Sporting CP,Maribor,2014-2015,3,1,4
+Chelsea,Sporting CP,2014-2015,3,1,4
+Maribor,Schalke 04,2014-2015,0,1,1
+Porto,BATE Borisov,2014-2015,6,0,6
+Athletic Bilbao,Shakhtar Donetsk,2014-2015,0,0,0
+Shakhtar Donetsk,Porto,2014-2015,2,2,4
+BATE Borisov,Athletic Bilbao,2014-2015,2,1,3
+BATE Borisov,Shakhtar Donetsk,2014-2015,0,7,7
+Porto,Athletic Bilbao,2014-2015,2,1,3
+Shakhtar Donetsk,BATE Borisov,2014-2015,5,0,5
+Athletic Bilbao,Porto,2014-2015,0,2,2
+BATE Borisov,Porto,2014-2015,0,3,3
+Shakhtar Donetsk,Athletic Bilbao,2014-2015,0,1,1
+Porto,Shakhtar Donetsk,2014-2015,1,1,2
+Athletic Bilbao,BATE Borisov,2014-2015,2,0,2
+Paris Saint-Germain,Malmö FF,2015-2016,2,0,2
+Real Madrid,Shakhtar Donetsk,2015-2016,4,0,4
+Shakhtar Donetsk,Paris Saint-Germain,2015-2016,0,3,3
+Malmö FF,Real Madrid,2015-2016,0,2,2
+Malmö FF,Shakhtar Donetsk,2015-2016,1,0,1
+Paris Saint-Germain,Real Madrid,2015-2016,0,0,0
+Shakhtar Donetsk,Malmö FF,2015-2016,4,0,4
+Real Madrid,Paris Saint-Germain,2015-2016,1,0,1
+Malmö FF,Paris Saint-Germain,2015-2016,0,5,5
+Shakhtar Donetsk,Real Madrid,2015-2016,3,4,7
+Paris Saint-Germain,Shakhtar Donetsk,2015-2016,2,0,2
+Real Madrid,Malmö FF,2015-2016,8,0,8
+VfL Wolfsburg,CSKA Moscow,2015-2016,1,0,1
+PSV Eindhoven,Manchester United,2015-2016,2,1,3
+Manchester United,VfL Wolfsburg,2015-2016,2,1,3
+CSKA Moscow,PSV Eindhoven,2015-2016,3,2,5
+CSKA Moscow,Manchester United,2015-2016,1,1,2
+VfL Wolfsburg,PSV Eindhoven,2015-2016,2,0,2
+Manchester United,CSKA Moscow,2015-2016,1,0,1
+PSV Eindhoven,VfL Wolfsburg,2015-2016,2,0,2
+CSKA Moscow,VfL Wolfsburg,2015-2016,0,2,2
+Manchester United,PSV Eindhoven,2015-2016,0,0,0
+VfL Wolfsburg,Manchester United,2015-2016,3,2,5
+PSV Eindhoven,CSKA Moscow,2015-2016,2,1,3
+Galatasaray,Atlético Madrid,2015-2016,0,2,2
+Benfica,Astana,2015-2016,2,0,2
+Astana,Galatasaray,2015-2016,2,2,4
+Atlético Madrid,Benfica,2015-2016,1,2,3
+Atlético Madrid,Astana,2015-2016,4,0,4
+Galatasaray,Benfica,2015-2016,2,1,3
+Astana,Atlético Madrid,2015-2016,0,0,0
+Benfica,Galatasaray,2015-2016,2,1,3
+Astana,Benfica,2015-2016,2,2,4
+Atlético Madrid,Galatasaray,2015-2016,2,0,2
+Galatasaray,Astana,2015-2016,1,1,2
+Benfica,Atlético Madrid,2015-2016,1,2,3
+Manchester City,Juventus,2015-2016,1,2,3
+Sevilla,Borussia Mönchengladbach,2015-2016,3,0,3
+Borussia Mönchengladbach,Manchester City,2015-2016,1,2,3
+Juventus,Sevilla,2015-2016,2,0,2
+Juventus,Borussia Mönchengladbach,2015-2016,0,0,0
+Manchester City,Sevilla,2015-2016,2,1,3
+Borussia Mönchengladbach,Juventus,2015-2016,1,1,2
+Sevilla,Manchester City,2015-2016,1,3,4
+Juventus,Manchester City,2015-2016,1,0,1
+Borussia Mönchengladbach,Sevilla,2015-2016,4,2,6
+Manchester City,Borussia Mönchengladbach,2015-2016,4,2,6
+Sevilla,Juventus,2015-2016,1,0,1
+Bayer Leverkusen,BATE Borisov,2015-2016,4,1,5
+Roma,Barcelona,2015-2016,1,1,2
+Barcelona,Bayer Leverkusen,2015-2016,2,1,3
+BATE Borisov,Roma,2015-2016,3,2,5
+BATE Borisov,Barcelona,2015-2016,0,2,2
+Bayer Leverkusen,Roma,2015-2016,4,4,8
+Barcelona,BATE Borisov,2015-2016,3,0,3
+Roma,Bayer Leverkusen,2015-2016,3,2,5
+BATE Borisov,Bayer Leverkusen,2015-2016,1,1,2
+Barcelona,Roma,2015-2016,6,1,7
+Bayer Leverkusen,Barcelona,2015-2016,1,1,2
+Roma,BATE Borisov,2015-2016,0,0,0
+Dinamo Zagreb,Arsenal,2015-2016,2,1,3
+Olympiacos,Bayern Munich,2015-2016,0,3,3
+Bayern Munich,Dinamo Zagreb,2015-2016,5,0,5
+Arsenal,Olympiacos,2015-2016,2,3,5
+Arsenal,Bayern Munich,2015-2016,2,0,2
+Dinamo Zagreb,Olympiacos,2015-2016,0,1,1
+Bayern Munich,Arsenal,2015-2016,5,1,6
+Olympiacos,Dinamo Zagreb,2015-2016,2,1,3
+Arsenal,Dinamo Zagreb,2015-2016,3,0,3
+Bayern Munich,Olympiacos,2015-2016,4,0,4
+Dinamo Zagreb,Bayern Munich,2015-2016,0,2,2
+Olympiacos,Arsenal,2015-2016,0,3,3
+Dynamo Kyiv,Porto,2015-2016,2,2,4
+Chelsea,Maccabi Tel Aviv,2015-2016,4,0,4
+Maccabi Tel Aviv,Dynamo Kyiv,2015-2016,0,2,2
+Porto,Chelsea,2015-2016,2,1,3
+Porto,Maccabi Tel Aviv,2015-2016,2,0,2
+Dynamo Kyiv,Chelsea,2015-2016,0,0,0
+Maccabi Tel Aviv,Porto,2015-2016,1,3,4
+Chelsea,Dynamo Kyiv,2015-2016,2,1,3
+Porto,Dynamo Kyiv,2015-2016,0,2,2
+Maccabi Tel Aviv,Chelsea,2015-2016,0,4,4
+Dynamo Kyiv,Maccabi Tel Aviv,2015-2016,1,0,1
+Chelsea,Porto,2015-2016,2,0,2
+Valencia,Zenit Saint Petersburg,2015-2016,2,3,5
+Gent,Lyon,2015-2016,1,1,2
+Lyon,Valencia,2015-2016,0,1,1
+Zenit Saint Petersburg,Gent,2015-2016,2,1,3
+Zenit Saint Petersburg,Lyon,2015-2016,3,1,4
+Valencia,Gent,2015-2016,2,1,3
+Lyon,Zenit Saint Petersburg,2015-2016,0,2,2
+Gent,Valencia,2015-2016,1,0,1
+Zenit Saint Petersburg,Valencia,2015-2016,2,0,2
+Lyon,Gent,2015-2016,1,2,3
+Valencia,Lyon,2015-2016,0,2,2
+Gent,Zenit Saint Petersburg,2015-2016,2,1,3
+Paris Saint-Germain,Arsenal,2016-2017,1,1,2
+Basel,Ludogorets Razgrad,2016-2017,1,1,2
+Ludogorets Razgrad,Paris Saint-Germain,2016-2017,1,3,4
+Arsenal,Basel,2016-2017,2,0,2
+Arsenal,Ludogorets Razgrad,2016-2017,6,0,6
+Paris Saint-Germain,Basel,2016-2017,3,0,3
+Ludogorets Razgrad,Arsenal,2016-2017,2,3,5
+Basel,Paris Saint-Germain,2016-2017,1,2,3
+Arsenal,Paris Saint-Germain,2016-2017,2,2,4
+Ludogorets Razgrad,Basel,2016-2017,0,0,0
+Paris Saint-Germain,Ludogorets Razgrad,2016-2017,2,2,4
+Basel,Arsenal,2016-2017,1,4,5
+Dynamo Kyiv,Napoli,2016-2017,1,2,3
+Benfica,Beşiktaş,2016-2017,1,1,2
+Beşiktaş,Dynamo Kyiv,2016-2017,1,1,2
+Napoli,Benfica,2016-2017,4,2,6
+Napoli,Beşiktaş,2016-2017,2,3,5
+Dynamo Kyiv,Benfica,2016-2017,0,2,2
+Beşiktaş,Napoli,2016-2017,1,1,2
+Benfica,Dynamo Kyiv,2016-2017,1,0,1
+Beşiktaş,Benfica,2016-2017,3,3,6
+Napoli,Dynamo Kyiv,2016-2017,0,0,0
+Dynamo Kyiv,Beşiktaş,2016-2017,6,0,6
+Benfica,Napoli,2016-2017,1,2,3
+Barcelona,Celtic,2016-2017,7,0,7
+Manchester City,Borussia Mönchengladbach,2016-2017,4,0,4
+Borussia Mönchengladbach,Barcelona,2016-2017,1,2,3
+Celtic,Manchester City,2016-2017,3,3,6
+Celtic,Borussia Mönchengladbach,2016-2017,0,2,2
+Barcelona,Manchester City,2016-2017,4,0,4
+Borussia Mönchengladbach,Celtic,2016-2017,1,1,2
+Manchester City,Barcelona,2016-2017,3,1,4
+Celtic,Barcelona,2016-2017,0,2,2
+Borussia Mönchengladbach,Manchester City,2016-2017,1,1,2
+Barcelona,Borussia Mönchengladbach,2016-2017,4,0,4
+Manchester City,Celtic,2016-2017,1,1,2
+Bayern Munich,Rostov,2016-2017,5,0,5
+PSV Eindhoven,Atlético Madrid,2016-2017,0,1,1
+Atlético Madrid,Bayern Munich,2016-2017,1,0,1
+Rostov,PSV Eindhoven,2016-2017,2,2,4
+Rostov,Atlético Madrid,2016-2017,0,1,1
+Bayern Munich,PSV Eindhoven,2016-2017,4,1,5
+Atlético Madrid,Rostov,2016-2017,2,1,3
+PSV Eindhoven,Bayern Munich,2016-2017,1,2,3
+Rostov,Bayern Munich,2016-2017,3,2,5
+Atlético Madrid,PSV Eindhoven,2016-2017,2,0,2
+Bayern Munich,Atlético Madrid,2016-2017,1,0,1
+PSV Eindhoven,Rostov,2016-2017,0,0,0
+Bayer Leverkusen,CSKA Moscow,2016-2017,2,2,4
+Tottenham Hotspur,Monaco,2016-2017,1,2,3
+Monaco,Bayer Leverkusen,2016-2017,1,1,2
+CSKA Moscow,Tottenham Hotspur,2016-2017,0,1,1
+CSKA Moscow,Monaco,2016-2017,1,1,2
+Bayer Leverkusen,Tottenham Hotspur,2016-2017,0,0,0
+Monaco,CSKA Moscow,2016-2017,3,0,3
+Tottenham Hotspur,Bayer Leverkusen,2016-2017,0,1,1
+CSKA Moscow,Bayer Leverkusen,2016-2017,1,1,2
+Monaco,Tottenham Hotspur,2016-2017,2,1,3
+Bayer Leverkusen,Monaco,2016-2017,3,0,3
+Tottenham Hotspur,CSKA Moscow,2016-2017,3,1,4
+Real Madrid,Sporting CP,2016-2017,2,1,3
+Legia Warsaw,Borussia Dortmund,2016-2017,0,6,6
+Borussia Dortmund,Real Madrid,2016-2017,2,2,4
+Sporting CP,Legia Warsaw,2016-2017,2,0,2
+Sporting CP,Borussia Dortmund,2016-2017,1,2,3
+Real Madrid,Legia Warsaw,2016-2017,5,1,6
+Borussia Dortmund,Sporting CP,2016-2017,1,0,1
+Legia Warsaw,Real Madrid,2016-2017,3,3,6
+Sporting CP,Real Madrid,2016-2017,1,2,3
+Borussia Dortmund,Legia Warsaw,2016-2017,8,4,12
+Real Madrid,Borussia Dortmund,2016-2017,2,2,4
+Legia Warsaw,Sporting CP,2016-2017,1,0,1
+Club Brugge,Leicester City,2016-2017,0,3,3
+Porto,Copenhagen,2016-2017,1,1,2
+Copenhagen,Club Brugge,2016-2017,4,0,4
+Leicester City,Porto,2016-2017,1,0,1
+Leicester City,Copenhagen,2016-2017,1,0,1
+Club Brugge,Porto,2016-2017,1,2,3
+Copenhagen,Leicester City,2016-2017,0,0,0
+Porto,Club Brugge,2016-2017,1,0,1
+Leicester City,Club Brugge,2016-2017,2,1,3
+Copenhagen,Porto,2016-2017,0,0,0
+Club Brugge,Copenhagen,2016-2017,0,2,2
+Porto,Leicester City,2016-2017,5,0,5
+Lyon,Dinamo Zagreb,2016-2017,3,0,3
+Juventus,Sevilla,2016-2017,0,0,0
+Sevilla,Lyon,2016-2017,1,0,1
+Dinamo Zagreb,Juventus,2016-2017,0,4,4
+Dinamo Zagreb,Sevilla,2016-2017,0,1,1
+Lyon,Juventus,2016-2017,0,1,1
+Sevilla,Dinamo Zagreb,2016-2017,4,0,4
+Juventus,Lyon,2016-2017,1,1,2
+Dinamo Zagreb,Lyon,2016-2017,0,1,1
+Sevilla,Juventus,2016-2017,1,3,4
+Lyon,Sevilla,2016-2017,0,0,0
+Juventus,Dinamo Zagreb,2016-2017,2,0,2
+Benfica,CSKA Moscow,2017-2018,1,2,3
+Manchester United,Basel,2017-2018,3,0,3
+Basel,Benfica,2017-2018,5,0,5
+CSKA Moscow,Manchester United,2017-2018,1,4,5
+CSKA Moscow,Basel,2017-2018,0,2,2
+Benfica,Manchester United,2017-2018,0,1,1
+Basel,CSKA Moscow,2017-2018,1,2,3
+Manchester United,Benfica,2017-2018,2,0,2
+CSKA Moscow,Benfica,2017-2018,2,0,2
+Basel,Manchester United,2017-2018,1,0,1
+Benfica,Basel,2017-2018,0,2,2
+Manchester United,CSKA Moscow,2017-2018,2,1,3
+Bayern Munich,Anderlecht,2017-2018,3,0,3
+Celtic,Paris Saint-Germain,2017-2018,0,5,5
+Paris Saint-Germain,Bayern Munich,2017-2018,3,0,3
+Anderlecht,Celtic,2017-2018,0,3,3
+Anderlecht,Paris Saint-Germain,2017-2018,0,4,4
+Bayern Munich,Celtic,2017-2018,3,0,3
+Paris Saint-Germain,Anderlecht,2017-2018,5,0,5
+Celtic,Bayern Munich,2017-2018,1,2,3
+Anderlecht,Bayern Munich,2017-2018,1,2,3
+Paris Saint-Germain,Celtic,2017-2018,7,1,8
+Bayern Munich,Paris Saint-Germain,2017-2018,3,1,4
+Celtic,Anderlecht,2017-2018,0,1,1
+Chelsea,Qarabağ,2017-2018,6,0,6
+Roma,Atlético Madrid,2017-2018,0,0,0
+Qarabağ,Roma,2017-2018,1,2,3
+Atlético Madrid,Chelsea,2017-2018,1,2,3
+Qarabağ,Atlético Madrid,2017-2018,0,0,0
+Chelsea,Roma,2017-2018,3,3,6
+Atlético Madrid,Qarabağ,2017-2018,1,1,2
+Roma,Chelsea,2017-2018,3,0,3
+Qarabağ,Chelsea,2017-2018,0,4,4
+Atlético Madrid,Roma,2017-2018,2,0,2
+Chelsea,Atlético Madrid,2017-2018,1,1,2
+Roma,Qarabağ,2017-2018,1,0,1
+Barcelona,Juventus,2017-2018,3,0,3
+Olympiacos,Sporting CP,2017-2018,2,3,5
+Sporting CP,Barcelona,2017-2018,0,1,1
+Juventus,Olympiacos,2017-2018,2,0,2
+Juventus,Sporting CP,2017-2018,2,1,3
+Barcelona,Olympiacos,2017-2018,3,1,4
+Sporting CP,Juventus,2017-2018,1,1,2
+Olympiacos,Barcelona,2017-2018,0,0,0
+Juventus,Barcelona,2017-2018,0,0,0
+Sporting CP,Olympiacos,2017-2018,3,1,4
+Barcelona,Sporting CP,2017-2018,2,0,2
+Olympiacos,Juventus,2017-2018,0,2,2
+Maribor,Spartak Moscow,2017-2018,1,1,2
+Liverpool,Sevilla,2017-2018,2,2,4
+Sevilla,Maribor,2017-2018,3,0,3
+Spartak Moscow,Liverpool,2017-2018,1,1,2
+Spartak Moscow,Sevilla,2017-2018,5,1,6
+Maribor,Liverpool,2017-2018,0,7,7
+Sevilla,Spartak Moscow,2017-2018,2,1,3
+Liverpool,Maribor,2017-2018,3,0,3
+Spartak Moscow,Maribor,2017-2018,1,1,2
+Sevilla,Liverpool,2017-2018,3,3,6
+Maribor,Sevilla,2017-2018,1,1,2
+Liverpool,Spartak Moscow,2017-2018,7,0,7
+Feyenoord,Manchester City,2017-2018,0,4,4
+Shakhtar Donetsk,Napoli,2017-2018,2,1,3
+Napoli,Feyenoord,2017-2018,3,1,4
+Manchester City,Shakhtar Donetsk,2017-2018,2,0,2
+Manchester City,Napoli,2017-2018,2,1,3
+Feyenoord,Shakhtar Donetsk,2017-2018,1,2,3
+Napoli,Manchester City,2017-2018,2,4,6
+Shakhtar Donetsk,Feyenoord,2017-2018,3,1,4
+Manchester City,Feyenoord,2017-2018,1,0,1
+Napoli,Shakhtar Donetsk,2017-2018,3,0,3
+Feyenoord,Napoli,2017-2018,2,1,3
+Shakhtar Donetsk,Manchester City,2017-2018,2,1,3
+RB Leipzig,Monaco,2017-2018,1,1,2
+Porto,Beşiktaş,2017-2018,1,3,4
+Beşiktaş,RB Leipzig,2017-2018,2,0,2
+Monaco,Porto,2017-2018,0,3,3
+Monaco,Beşiktaş,2017-2018,1,2,3
+RB Leipzig,Porto,2017-2018,3,2,5
+Beşiktaş,Monaco,2017-2018,1,1,2
+Porto,RB Leipzig,2017-2018,3,1,4
+Beşiktaş,Porto,2017-2018,1,1,2
+Monaco,RB Leipzig,2017-2018,1,4,5
+RB Leipzig,Beşiktaş,2017-2018,1,2,3
+Porto,Monaco,2017-2018,5,2,7
+Real Madrid,APOEL,2017-2018,3,0,3
+Tottenham Hotspur,Borussia Dortmund,2017-2018,3,1,4
+Borussia Dortmund,Real Madrid,2017-2018,1,3,4
+APOEL,Tottenham Hotspur,2017-2018,0,3,3
+APOEL,Borussia Dortmund,2017-2018,1,1,2
+Real Madrid,Tottenham Hotspur,2017-2018,1,1,2
+Borussia Dortmund,APOEL,2017-2018,1,1,2
+Tottenham Hotspur,Real Madrid,2017-2018,3,1,4
+APOEL,Real Madrid,2017-2018,0,6,6
+Borussia Dortmund,Tottenham Hotspur,2017-2018,1,2,3
+Real Madrid,Borussia Dortmund,2017-2018,3,2,5
+Tottenham Hotspur,APOEL,2017-2018,3,0,3
+Club Brugge,Borussia Dortmund,2018-2019,0,1,1
+Monaco,Atlético Madrid,2018-2019,1,2,3
+Atlético Madrid,Club Brugge,2018-2019,3,1,4
+Borussia Dortmund,Monaco,2018-2019,3,0,3
+Club Brugge,Monaco,2018-2019,1,1,2
+Borussia Dortmund,Atlético Madrid,2018-2019,4,0,4
+Monaco,Club Brugge,2018-2019,0,4,4
+Atlético Madrid,Borussia Dortmund,2018-2019,2,0,2
+Atlético Madrid,Monaco,2018-2019,2,0,2
+Borussia Dortmund,Club Brugge,2018-2019,0,0,0
+Club Brugge,Atlético Madrid,2018-2019,0,0,0
+Monaco,Borussia Dortmund,2018-2019,0,2,2
+Barcelona,PSV Eindhoven,2018-2019,4,0,4
+Inter Milan,Tottenham Hotspur,2018-2019,2,1,3
+Tottenham Hotspur,Barcelona,2018-2019,2,4,6
+PSV Eindhoven,Inter Milan,2018-2019,1,2,3
+PSV Eindhoven,Tottenham Hotspur,2018-2019,2,2,4
+Barcelona,Inter Milan,2018-2019,2,0,2
+Tottenham Hotspur,PSV Eindhoven,2018-2019,2,1,3
+Inter Milan,Barcelona,2018-2019,1,1,2
+PSV Eindhoven,Barcelona,2018-2019,1,2,3
+Tottenham Hotspur,Inter Milan,2018-2019,1,0,1
+Barcelona,Tottenham Hotspur,2018-2019,1,1,2
+Inter Milan,PSV Eindhoven,2018-2019,1,1,2
+Liverpool,Paris Saint-Germain,2018-2019,3,2,5
+Red Star Belgrade,Napoli,2018-2019,0,0,0
+Paris Saint-Germain,Red Star Belgrade,2018-2019,6,1,7
+Napoli,Liverpool,2018-2019,1,0,1
+Paris Saint-Germain,Napoli,2018-2019,2,2,4
+Liverpool,Red Star Belgrade,2018-2019,4,0,4
+Red Star Belgrade,Liverpool,2018-2019,2,0,2
+Napoli,Paris Saint-Germain,2018-2019,1,1,2
+Paris Saint-Germain,Liverpool,2018-2019,2,1,3
+Napoli,Red Star Belgrade,2018-2019,3,1,4
+Liverpool,Napoli,2018-2019,1,0,1
+Red Star Belgrade,Paris Saint-Germain,2018-2019,1,4,5
+Galatasaray,Lokomotiv Moscow,2018-2019,3,0,3
+Schalke 04,Porto,2018-2019,1,1,2
+Lokomotiv Moscow,Schalke 04,2018-2019,0,1,1
+Porto,Galatasaray,2018-2019,1,0,1
+Lokomotiv Moscow,Porto,2018-2019,1,3,4
+Galatasaray,Schalke 04,2018-2019,0,0,0
+Porto,Lokomotiv Moscow,2018-2019,4,1,5
+Schalke 04,Galatasaray,2018-2019,2,0,2
+Lokomotiv Moscow,Galatasaray,2018-2019,2,0,2
+Porto,Schalke 04,2018-2019,3,1,4
+Galatasaray,Porto,2018-2019,2,3,5
+Schalke 04,Lokomotiv Moscow,2018-2019,1,0,1
+Ajax,AEK Athens,2018-2019,3,0,3
+Benfica,Bayern Munich,2018-2019,0,2,2
+Bayern Munich,Ajax,2018-2019,1,1,2
+AEK Athens,Benfica,2018-2019,2,3,5
+AEK Athens,Bayern Munich,2018-2019,0,2,2
+Ajax,Benfica,2018-2019,1,0,1
+Bayern Munich,AEK Athens,2018-2019,2,0,2
+Benfica,Ajax,2018-2019,1,1,2
+AEK Athens,Ajax,2018-2019,0,2,2
+Bayern Munich,Benfica,2018-2019,5,1,6
+Ajax,Bayern Munich,2018-2019,3,3,6
+Benfica,AEK Athens,2018-2019,1,0,1
+Shakhtar Donetsk,1899 Hoffenheim,2018-2019,2,2,4
+Manchester City,Lyon,2018-2019,1,2,3
+1899 Hoffenheim,Manchester City,2018-2019,1,2,3
+Lyon,Shakhtar Donetsk,2018-2019,2,2,4
+1899 Hoffenheim,Lyon,2018-2019,3,3,6
+Shakhtar Donetsk,Manchester City,2018-2019,0,3,3
+Lyon,1899 Hoffenheim,2018-2019,2,2,4
+Manchester City,Shakhtar Donetsk,2018-2019,6,0,6
+1899 Hoffenheim,Shakhtar Donetsk,2018-2019,2,3,5
+Lyon,Manchester City,2018-2019,2,2,4
+Shakhtar Donetsk,Lyon,2018-2019,1,1,2
+Manchester City,1899 Hoffenheim,2018-2019,2,1,3
+Real Madrid,Roma,2018-2019,3,0,3
+Viktoria Plzeň,CSKA Moscow,2018-2019,2,2,4
+CSKA Moscow,Real Madrid,2018-2019,1,0,1
+Roma,Viktoria Plzeň,2018-2019,5,0,5
+Roma,CSKA Moscow,2018-2019,3,0,3
+Real Madrid,Viktoria Plzeň,2018-2019,2,1,3
+CSKA Moscow,Roma,2018-2019,1,2,3
+Viktoria Plzeň,Real Madrid,2018-2019,0,5,5
+CSKA Moscow,Viktoria Plzeň,2018-2019,1,2,3
+Roma,Real Madrid,2018-2019,0,2,2
+Real Madrid,CSKA Moscow,2018-2019,0,3,3
+Viktoria Plzeň,Roma,2018-2019,2,1,3
+Young Boys,Manchester United,2018-2019,0,3,3
+Valencia,Juventus,2018-2019,0,2,2
+Juventus,Young Boys,2018-2019,3,0,3
+Manchester United,Valencia,2018-2019,0,0,0
+Young Boys,Valencia,2018-2019,1,1,2
+Manchester United,Juventus,2018-2019,0,1,1
+Valencia,Young Boys,2018-2019,3,1,4
+Juventus,Manchester United,2018-2019,1,2,3
+Manchester United,Young Boys,2018-2019,1,0,1
+Juventus,Valencia,2018-2019,1,0,1
+Young Boys,Juventus,2018-2019,2,1,3
+Valencia,Manchester United,2018-2019,2,1,3
+Club Brugge,Galatasaray,2019-2020,0,0,0
+Paris Saint-Germain,Real Madrid,2019-2020,3,0,3
+Real Madrid,Club Brugge,2019-2020,2,2,4
+Galatasaray,Paris Saint-Germain,2019-2020,0,1,1
+Galatasaray,Real Madrid,2019-2020,0,1,1
+Club Brugge,Paris Saint-Germain,2019-2020,0,5,5
+Real Madrid,Galatasaray,2019-2020,6,0,6
+Paris Saint-Germain,Club Brugge,2019-2020,1,0,1
+Galatasaray,Club Brugge,2019-2020,1,1,2
+Real Madrid,Paris Saint-Germain,2019-2020,2,2,4
+Club Brugge,Real Madrid,2019-2020,1,3,4
+Paris Saint-Germain,Galatasaray,2019-2020,5,0,5
+Olympiacos,Tottenham Hotspur,2019-2020,2,2,4
+Bayern Munich,Red Star Belgrade,2019-2020,3,0,3
+Red Star Belgrade,Olympiacos,2019-2020,3,1,4
+Tottenham Hotspur,Bayern Munich,2019-2020,2,7,9
+Tottenham Hotspur,Red Star Belgrade,2019-2020,5,0,5
+Olympiacos,Bayern Munich,2019-2020,2,3,5
+Bayern Munich,Olympiacos,2019-2020,2,0,2
+Red Star Belgrade,Tottenham Hotspur,2019-2020,0,4,4
+Tottenham Hotspur,Olympiacos,2019-2020,4,2,6
+Red Star Belgrade,Bayern Munich,2019-2020,0,6,6
+Olympiacos,Red Star Belgrade,2019-2020,1,0,1
+Bayern Munich,Tottenham Hotspur,2019-2020,3,1,4
+Shakhtar Donetsk,Manchester City,2019-2020,0,3,3
+Dinamo Zagreb,Atalanta,2019-2020,4,0,4
+Atalanta,Shakhtar Donetsk,2019-2020,1,2,3
+Manchester City,Dinamo Zagreb,2019-2020,2,0,2
+Shakhtar Donetsk,Dinamo Zagreb,2019-2020,2,2,4
+Manchester City,Atalanta,2019-2020,5,1,6
+Atalanta,Manchester City,2019-2020,1,1,2
+Dinamo Zagreb,Shakhtar Donetsk,2019-2020,3,3,6
+Manchester City,Shakhtar Donetsk,2019-2020,1,1,2
+Atalanta,Dinamo Zagreb,2019-2020,2,0,2
+Shakhtar Donetsk,Atalanta,2019-2020,0,3,3
+Dinamo Zagreb,Manchester City,2019-2020,1,4,5
+Atlético Madrid,Juventus,2019-2020,2,2,4
+Bayer Leverkusen,Lokomotiv Moscow,2019-2020,1,2,3
+Lokomotiv Moscow,Atlético Madrid,2019-2020,0,2,2
+Juventus,Bayer Leverkusen,2019-2020,3,0,3
+Atlético Madrid,Bayer Leverkusen,2019-2020,1,0,1
+Juventus,Lokomotiv Moscow,2019-2020,2,1,3
+Lokomotiv Moscow,Juventus,2019-2020,1,2,3
+Bayer Leverkusen,Atlético Madrid,2019-2020,2,1,3
+Lokomotiv Moscow,Bayer Leverkusen,2019-2020,0,2,2
+Juventus,Atlético Madrid,2019-2020,1,0,1
+Atlético Madrid,Lokomotiv Moscow,2019-2020,2,0,2
+Bayer Leverkusen,Juventus,2019-2020,0,2,2
+Red Bull Salzburg,Genk,2019-2020,6,2,8
+Napoli,Liverpool,2019-2020,2,0,2
+Genk,Napoli,2019-2020,0,0,0
+Liverpool,Red Bull Salzburg,2019-2020,4,3,7
+Genk,Liverpool,2019-2020,1,4,5
+Red Bull Salzburg,Napoli,2019-2020,2,3,5
+Liverpool,Genk,2019-2020,2,1,3
+Napoli,Red Bull Salzburg,2019-2020,1,1,2
+Genk,Red Bull Salzburg,2019-2020,1,4,5
+Liverpool,Napoli,2019-2020,1,1,2
+Red Bull Salzburg,Liverpool,2019-2020,0,2,2
+Napoli,Genk,2019-2020,4,0,4
+Inter Milan,Slavia Prague,2019-2020,1,1,2
+Borussia Dortmund,Barcelona,2019-2020,0,0,0
+Slavia Prague,Borussia Dortmund,2019-2020,0,2,2
+Barcelona,Inter Milan,2019-2020,2,1,3
+Slavia Prague,Barcelona,2019-2020,1,2,3
+Inter Milan,Borussia Dortmund,2019-2020,2,0,2
+Barcelona,Slavia Prague,2019-2020,0,0,0
+Borussia Dortmund,Inter Milan,2019-2020,3,2,5
+Slavia Prague,Inter Milan,2019-2020,1,3,4
+Barcelona,Borussia Dortmund,2019-2020,3,1,4
+Inter Milan,Barcelona,2019-2020,1,2,3
+Borussia Dortmund,Slavia Prague,2019-2020,2,1,3
+Lyon,Zenit Saint Petersburg,2019-2020,1,1,2
+Benfica,RB Leipzig,2019-2020,1,2,3
+Zenit Saint Petersburg,Benfica,2019-2020,3,1,4
+RB Leipzig,Lyon,2019-2020,0,2,2
+RB Leipzig,Zenit Saint Petersburg,2019-2020,2,1,3
+Benfica,Lyon,2019-2020,2,1,3
+Zenit Saint Petersburg,RB Leipzig,2019-2020,0,2,2
+Lyon,Benfica,2019-2020,3,1,4
+Zenit Saint Petersburg,Lyon,2019-2020,2,0,2
+RB Leipzig,Benfica,2019-2020,2,2,4
+Benfica,Zenit Saint Petersburg,2019-2020,3,0,3
+Lyon,RB Leipzig,2019-2020,2,2,4
+Ajax,Lille,2019-2020,3,0,3
+Chelsea,Valencia,2019-2020,0,1,1
+Valencia,Ajax,2019-2020,0,3,3
+Lille,Chelsea,2019-2020,1,2,3
+Ajax,Chelsea,2019-2020,0,1,1
+Lille,Valencia,2019-2020,1,1,2
+Valencia,Lille,2019-2020,4,1,5
+Chelsea,Ajax,2019-2020,4,4,8
+Valencia,Chelsea,2019-2020,2,2,4
+Lille,Ajax,2019-2020,0,2,2
+Ajax,Valencia,2019-2020,0,1,1
+Chelsea,Lille,2019-2020,2,1,3
+Red Bull Salzburg,Lokomotiv Moscow,2020-2021,2,2,4
+Bayern Munich,Atlético Madrid,2020-2021,4,0,4
+Lokomotiv Moscow,Bayern Munich,2020-2021,1,2,3
+Atlético Madrid,Red Bull Salzburg,2020-2021,3,2,5
+Lokomotiv Moscow,Atlético Madrid,2020-2021,1,1,2
+Red Bull Salzburg,Bayern Munich,2020-2021,2,6,8
+Atlético Madrid,Lokomotiv Moscow,2020-2021,0,0,0
+Bayern Munich,Red Bull Salzburg,2020-2021,3,1,4
+Lokomotiv Moscow,Red Bull Salzburg,2020-2021,1,3,4
+Atlético Madrid,Bayern Munich,2020-2021,1,1,2
+Bayern Munich,Lokomotiv Moscow,2020-2021,2,0,2
+Red Bull Salzburg,Atlético Madrid,2020-2021,0,2,2
+Real Madrid,Shakhtar Donetsk,2020-2021,2,3,5
+Inter Milan,Borussia Mönchengladbach,2020-2021,2,2,4
+Shakhtar Donetsk,Inter Milan,2020-2021,0,0,0
+Borussia Mönchengladbach,Real Madrid,2020-2021,2,2,4
+Shakhtar Donetsk,Borussia Mönchengladbach,2020-2021,0,6,6
+Real Madrid,Inter Milan,2020-2021,3,2,5
+Borussia Mönchengladbach,Shakhtar Donetsk,2020-2021,4,0,4
+Inter Milan,Real Madrid,2020-2021,0,2,2
+Shakhtar Donetsk,Real Madrid,2020-2021,2,0,2
+Borussia Mönchengladbach,Inter Milan,2020-2021,2,3,5
+Real Madrid,Borussia Mönchengladbach,2020-2021,2,0,2
+Inter Milan,Shakhtar Donetsk,2020-2021,0,0,0
+Manchester City,Porto,2020-2021,3,1,4
+Olympiacos,Marseille,2020-2021,1,0,1
+Porto,Olympiacos,2020-2021,2,0,2
+Marseille,Manchester City,2020-2021,0,3,3
+Manchester City,Olympiacos,2020-2021,3,0,3
+Porto,Marseille,2020-2021,3,0,3
+Olympiacos,Manchester City,2020-2021,0,1,1
+Marseille,Porto,2020-2021,0,2,2
+Marseille,Olympiacos,2020-2021,2,1,3
+Porto,Manchester City,2020-2021,0,0,0
+Manchester City,Marseille,2020-2021,3,0,3
+Olympiacos,Porto,2020-2021,0,2,2
+Ajax,Liverpool,2020-2021,0,1,1
+Midtjylland,Atalanta,2020-2021,0,4,4
+Liverpool,Midtjylland,2020-2021,2,0,2
+Atalanta,Ajax,2020-2021,2,2,4
+Midtjylland,Ajax,2020-2021,1,2,3
+Atalanta,Liverpool,2020-2021,0,5,5
+Liverpool,Atalanta,2020-2021,0,2,2
+Ajax,Midtjylland,2020-2021,3,1,4
+Liverpool,Ajax,2020-2021,1,0,1
+Atalanta,Midtjylland,2020-2021,1,1,2
+Ajax,Atalanta,2020-2021,0,1,1
+Midtjylland,Liverpool,2020-2021,1,1,2
+Chelsea,Sevilla,2020-2021,0,0,0
+Rennes,Krasnodar,2020-2021,1,1,2
+Krasnodar,Chelsea,2020-2021,0,4,4
+Sevilla,Rennes,2020-2021,1,0,1
+Sevilla,Krasnodar,2020-2021,3,2,5
+Chelsea,Rennes,2020-2021,3,0,3
+Krasnodar,Sevilla,2020-2021,1,2,3
+Rennes,Chelsea,2020-2021,1,2,3
+Krasnodar,Rennes,2020-2021,1,0,1
+Sevilla,Chelsea,2020-2021,0,4,4
+Chelsea,Krasnodar,2020-2021,1,1,2
+Rennes,Sevilla,2020-2021,1,3,4
+Zenit Saint Petersburg,Club Brugge,2020-2021,1,2,3
+Lazio,Borussia Dortmund,2020-2021,3,1,4
+Borussia Dortmund,Zenit Saint Petersburg,2020-2021,2,0,2
+Club Brugge,Lazio,2020-2021,1,1,2
+Zenit Saint Petersburg,Lazio,2020-2021,1,1,2
+Club Brugge,Borussia Dortmund,2020-2021,0,3,3
+Lazio,Zenit Saint Petersburg,2020-2021,3,1,4
+Borussia Dortmund,Club Brugge,2020-2021,3,0,3
+Borussia Dortmund,Lazio,2020-2021,1,1,2
+Club Brugge,Zenit Saint Petersburg,2020-2021,3,0,3
+Zenit Saint Petersburg,Borussia Dortmund,2020-2021,1,2,3
+Lazio,Club Brugge,2020-2021,2,2,4
+Dynamo Kyiv,Juventus,2020-2021,0,2,2
+Barcelona,Ferencváros,2020-2021,5,1,6
+Juventus,Barcelona,2020-2021,0,2,2
+Ferencváros,Dynamo Kyiv,2020-2021,2,2,4
+Barcelona,Dynamo Kyiv,2020-2021,2,1,3
+Ferencváros,Juventus,2020-2021,1,4,5
+Dynamo Kyiv,Barcelona,2020-2021,0,4,4
+Juventus,Ferencváros,2020-2021,2,1,3
+Juventus,Dynamo Kyiv,2020-2021,3,0,3
+Ferencváros,Barcelona,2020-2021,0,3,3
+Barcelona,Juventus,2020-2021,0,3,3
+Dynamo Kyiv,Ferencváros,2020-2021,1,0,1
+Paris Saint-Germain,Manchester United,2020-2021,1,2,3
+RB Leipzig,İstanbul Başakşehir,2020-2021,2,0,2
+İstanbul Başakşehir,Paris Saint-Germain,2020-2021,0,2,2
+Manchester United,RB Leipzig,2020-2021,5,0,5
+İstanbul Başakşehir,Manchester United,2020-2021,2,1,3
+RB Leipzig,Paris Saint-Germain,2020-2021,2,1,3
+Manchester United,İstanbul Başakşehir,2020-2021,4,1,5
+Paris Saint-Germain,RB Leipzig,2020-2021,1,0,1
+İstanbul Başakşehir,RB Leipzig,2020-2021,3,4,7
+Manchester United,Paris Saint-Germain,2020-2021,1,3,4
+Paris Saint-Germain,İstanbul Başakşehir,2020-2021,5,1,6
+RB Leipzig,Manchester United,2020-2021,3,2,5
+Manchester City,RB Leipzig,2021-2022,6,3,9
+Club Brugge,Paris Saint-Germain,2021-2022,1,1,2
+RB Leipzig,Club Brugge,2021-2022,1,2,3
+Paris Saint-Germain,Manchester City,2021-2022,2,0,2
+Club Brugge,Manchester City,2021-2022,1,5,6
+Paris Saint-Germain,RB Leipzig,2021-2022,3,2,5
+RB Leipzig,Paris Saint-Germain,2021-2022,2,2,4
+Manchester City,Club Brugge,2021-2022,4,1,5
+Manchester City,Paris Saint-Germain,2021-2022,2,1,3
+Club Brugge,RB Leipzig,2021-2022,0,5,5
+RB Leipzig,Manchester City,2021-2022,2,1,3
+Paris Saint-Germain,Club Brugge,2021-2022,4,1,5
+Liverpool,Milan,2021-2022,3,2,5
+Atlético Madrid,Porto,2021-2022,0,0,0
+Milan,Atlético Madrid,2021-2022,1,2,3
+Porto,Liverpool,2021-2022,1,5,6
+Atlético Madrid,Liverpool,2021-2022,2,3,5
+Porto,Milan,2021-2022,1,0,1
+Milan,Porto,2021-2022,1,1,2
+Liverpool,Atlético Madrid,2021-2022,2,0,2
+Liverpool,Porto,2021-2022,2,0,2
+Atlético Madrid,Milan,2021-2022,0,1,1
+Porto,Atlético Madrid,2021-2022,1,3,4
+Milan,Liverpool,2021-2022,1,2,3
+Beşiktaş,Borussia Dortmund,2021-2022,1,2,3
+Sporting CP,Ajax,2021-2022,1,5,6
+Ajax,Beşiktaş,2021-2022,2,0,2
+Borussia Dortmund,Sporting CP,2021-2022,1,0,1
+Beşiktaş,Sporting CP,2021-2022,1,4,5
+Ajax,Borussia Dortmund,2021-2022,4,0,4
+Borussia Dortmund,Ajax,2021-2022,1,3,4
+Sporting CP,Beşiktaş,2021-2022,4,0,4
+Beşiktaş,Ajax,2021-2022,1,2,3
+Sporting CP,Borussia Dortmund,2021-2022,3,1,4
+Ajax,Sporting CP,2021-2022,4,2,6
+Borussia Dortmund,Beşiktaş,2021-2022,5,0,5
+Sheriff Tiraspol,Shakhtar Donetsk,2021-2022,2,0,2
+Inter Milan,Real Madrid,2021-2022,0,1,1
+Shakhtar Donetsk,Inter Milan,2021-2022,0,0,0
+Real Madrid,Sheriff Tiraspol,2021-2022,1,2,3
+Shakhtar Donetsk,Real Madrid,2021-2022,0,5,5
+Inter Milan,Sheriff Tiraspol,2021-2022,3,1,4
+Real Madrid,Shakhtar Donetsk,2021-2022,2,1,3
+Sheriff Tiraspol,Inter Milan,2021-2022,1,3,4
+Inter Milan,Shakhtar Donetsk,2021-2022,2,0,2
+Sheriff Tiraspol,Real Madrid,2021-2022,0,3,3
+Shakhtar Donetsk,Sheriff Tiraspol,2021-2022,1,1,2
+Real Madrid,Inter Milan,2021-2022,2,0,2
+Barcelona,Bayern Munich,2021-2022,0,3,3
+Dynamo Kyiv,Benfica,2021-2022,0,0,0
+Benfica,Barcelona,2021-2022,3,0,3
+Bayern Munich,Dynamo Kyiv,2021-2022,5,0,5
+Barcelona,Dynamo Kyiv,2021-2022,1,0,1
+Benfica,Bayern Munich,2021-2022,0,4,4
+Bayern Munich,Benfica,2021-2022,5,2,7
+Dynamo Kyiv,Barcelona,2021-2022,0,1,1
+Dynamo Kyiv,Bayern Munich,2021-2022,1,2,3
+Barcelona,Benfica,2021-2022,0,0,0
+Bayern Munich,Barcelona,2021-2022,3,0,3
+Benfica,Dynamo Kyiv,2021-2022,2,0,2
+Young Boys,Manchester United,2021-2022,2,1,3
+Villarreal,Atalanta,2021-2022,2,2,4
+Atalanta,Young Boys,2021-2022,1,0,1
+Manchester United,Villarreal,2021-2022,2,1,3
+Manchester United,Atalanta,2021-2022,3,2,5
+Young Boys,Villarreal,2021-2022,1,4,5
+Atalanta,Manchester United,2021-2022,2,2,4
+Villarreal,Young Boys,2021-2022,2,0,2
+Villarreal,Manchester United,2021-2022,0,2,2
+Young Boys,Atalanta,2021-2022,3,3,6
+Manchester United,Young Boys,2021-2022,1,1,2
+Atalanta,Villarreal,2021-2022,2,3,5
+Sevilla,Red Bull Salzburg,2021-2022,1,1,2
+Lille,VfL Wolfsburg,2021-2022,0,0,0
+Red Bull Salzburg,Lille,2021-2022,2,1,3
+VfL Wolfsburg,Sevilla,2021-2022,1,1,2
+Red Bull Salzburg,VfL Wolfsburg,2021-2022,3,1,4
+Lille,Sevilla,2021-2022,0,0,0
+VfL Wolfsburg,Red Bull Salzburg,2021-2022,2,1,3
+Sevilla,Lille,2021-2022,1,2,3
+Sevilla,VfL Wolfsburg,2021-2022,2,0,2
+Lille,Red Bull Salzburg,2021-2022,1,0,1
+VfL Wolfsburg,Lille,2021-2022,1,3,4
+Red Bull Salzburg,Sevilla,2021-2022,1,0,1
+Chelsea,Zenit Saint Petersburg,2021-2022,1,0,1
+Malmö FF,Juventus,2021-2022,0,3,3
+Zenit Saint Petersburg,Malmö FF,2021-2022,4,0,4
+Juventus,Chelsea,2021-2022,1,0,1
+Zenit Saint Petersburg,Juventus,2021-2022,0,1,1
+Chelsea,Malmö FF,2021-2022,4,0,4
+Malmö FF,Chelsea,2021-2022,0,1,1
+Juventus,Zenit Saint Petersburg,2021-2022,4,2,6
+Chelsea,Juventus,2021-2022,4,0,4
+Malmö FF,Zenit Saint Petersburg,2021-2022,1,1,2
+Zenit Saint Petersburg,Chelsea,2021-2022,3,3,6
+Juventus,Malmö FF,2021-2022,1,0,1
+Ajax,Rangers,2022-2023,4,0,4
+Napoli,Liverpool,2022-2023,4,1,5
+Liverpool,Ajax,2022-2023,2,1,3
+Rangers,Napoli,2022-2023,0,3,3
+Liverpool,Rangers,2022-2023,2,0,2
+Ajax,Napoli,2022-2023,1,6,7
+Napoli,Ajax,2022-2023,4,2,6
+Rangers,Liverpool,2022-2023,1,7,8
+Napoli,Rangers,2022-2023,3,0,3
+Ajax,Liverpool,2022-2023,0,3,3
+Liverpool,Napoli,2022-2023,2,0,2
+Rangers,Ajax,2022-2023,1,3,4
+Atlético Madrid,Porto,2022-2023,2,1,3
+Club Brugge,Bayer Leverkusen,2022-2023,1,0,1
+Porto,Club Brugge,2022-2023,0,4,4
+Bayer Leverkusen,Atlético Madrid,2022-2023,2,0,2
+Porto,Bayer Leverkusen,2022-2023,2,0,2
+Club Brugge,Atlético Madrid,2022-2023,2,0,2
+Atlético Madrid,Club Brugge,2022-2023,0,0,0
+Bayer Leverkusen,Porto,2022-2023,0,3,3
+Club Brugge,Porto,2022-2023,0,4,4
+Atlético Madrid,Bayer Leverkusen,2022-2023,2,2,4
+Porto,Atlético Madrid,2022-2023,2,1,3
+Bayer Leverkusen,Club Brugge,2022-2023,0,0,0
+Barcelona,Viktoria Plzeň,2022-2023,5,1,6
+Inter Milan,Bayern Munich,2022-2023,0,2,2
+Viktoria Plzeň,Inter Milan,2022-2023,0,2,2
+Bayern Munich,Barcelona,2022-2023,2,0,2
+Bayern Munich,Viktoria Plzeň,2022-2023,5,0,5
+Inter Milan,Barcelona,2022-2023,1,0,1
+Barcelona,Inter Milan,2022-2023,3,3,6
+Viktoria Plzeň,Bayern Munich,2022-2023,2,4,6
+Inter Milan,Viktoria Plzeň,2022-2023,4,0,4
+Barcelona,Bayern Munich,2022-2023,0,3,3
+Bayern Munich,Inter Milan,2022-2023,2,0,2
+Viktoria Plzeň,Barcelona,2022-2023,2,4,6
+Eintracht Frankfurt,Sporting CP,2022-2023,0,3,3
+Tottenham Hotspur,Marseille,2022-2023,2,0,2
+Sporting CP,Tottenham Hotspur,2022-2023,2,0,2
+Marseille,Eintracht Frankfurt,2022-2023,0,1,1
+Marseille,Sporting CP,2022-2023,4,1,5
+Eintracht Frankfurt,Tottenham Hotspur,2022-2023,0,0,0
+Tottenham Hotspur,Eintracht Frankfurt,2022-2023,3,2,5
+Sporting CP,Marseille,2022-2023,0,2,2
+Tottenham Hotspur,Sporting CP,2022-2023,1,1,2
+Eintracht Frankfurt,Marseille,2022-2023,2,1,3
+Sporting CP,Eintracht Frankfurt,2022-2023,1,2,3
+Marseille,Tottenham Hotspur,2022-2023,1,2,3
+Dinamo Zagreb,Chelsea,2022-2023,1,0,1
+Red Bull Salzburg,Milan,2022-2023,1,1,2
+Milan,Dinamo Zagreb,2022-2023,3,1,4
+Chelsea,Red Bull Salzburg,2022-2023,1,1,2
+Red Bull Salzburg,Dinamo Zagreb,2022-2023,1,0,1
+Chelsea,Milan,2022-2023,3,0,3
+Dinamo Zagreb,Red Bull Salzburg,2022-2023,1,1,2
+Milan,Chelsea,2022-2023,0,2,2
+Red Bull Salzburg,Chelsea,2022-2023,1,2,3
+Dinamo Zagreb,Milan,2022-2023,0,4,4
+Chelsea,Dinamo Zagreb,2022-2023,2,1,3
+Milan,Red Bull Salzburg,2022-2023,4,0,4
+Celtic,Real Madrid,2022-2023,0,3,3
+RB Leipzig,Shakhtar Donetsk,2022-2023,1,4,5
+Shakhtar Donetsk,Celtic,2022-2023,1,1,2
+Real Madrid,RB Leipzig,2022-2023,2,0,2
+RB Leipzig,Celtic,2022-2023,3,1,4
+Real Madrid,Shakhtar Donetsk,2022-2023,2,1,3
+Shakhtar Donetsk,Real Madrid,2022-2023,1,1,2
+Celtic,RB Leipzig,2022-2023,0,2,2
+Celtic,Shakhtar Donetsk,2022-2023,1,1,2
+RB Leipzig,Real Madrid,2022-2023,3,2,5
+Real Madrid,Celtic,2022-2023,5,1,6
+Shakhtar Donetsk,RB Leipzig,2022-2023,0,4,4
+Borussia Dortmund,Copenhagen,2022-2023,3,0,3
+Sevilla,Manchester City,2022-2023,0,4,4
+Manchester City,Borussia Dortmund,2022-2023,2,1,3
+Copenhagen,Sevilla,2022-2023,0,0,0
+Manchester City,Copenhagen,2022-2023,5,0,5
+Sevilla,Borussia Dortmund,2022-2023,1,4,5
+Copenhagen,Manchester City,2022-2023,0,0,0
+Borussia Dortmund,Sevilla,2022-2023,1,1,2
+Sevilla,Copenhagen,2022-2023,3,0,3
+Borussia Dortmund,Manchester City,2022-2023,0,0,0
+Manchester City,Sevilla,2022-2023,3,1,4
+Copenhagen,Borussia Dortmund,2022-2023,1,1,2
+Paris Saint-Germain,Juventus,2022-2023,2,1,3
+Benfica,Maccabi Haifa,2022-2023,2,0,2
+Juventus,Benfica,2022-2023,1,2,3
+Maccabi Haifa,Paris Saint-Germain,2022-2023,1,3,4
+Juventus,Maccabi Haifa,2022-2023,3,1,4
+Benfica,Paris Saint-Germain,2022-2023,1,1,2
+Maccabi Haifa,Juventus,2022-2023,2,0,2
+Paris Saint-Germain,Benfica,2022-2023,1,1,2
+Paris Saint-Germain,Maccabi Haifa,2022-2023,7,2,9
+Benfica,Juventus,2022-2023,4,3,7
+Juventus,Paris Saint-Germain,2022-2023,1,2,3
+Maccabi Haifa,Benfica,2022-2023,1,6,7
+Galatasaray,Copenhagen,2023-2024,2,2,4
+Bayern Munich,Manchester United,2023-2024,4,3,7
+Manchester United,Galatasaray,2023-2024,2,3,5
+Copenhagen,Bayern Munich,2023-2024,1,2,3
+Galatasaray,Bayern Munich,2023-2024,1,3,4
+Manchester United,Copenhagen,2023-2024,1,0,1
+Bayern Munich,Galatasaray,2023-2024,2,1,3
+Copenhagen,Manchester United,2023-2024,4,3,7
+Galatasaray,Manchester United,2023-2024,3,3,6
+Bayern Munich,Copenhagen,2023-2024,0,0,0
+Manchester United,Bayern Munich,2023-2024,0,1,1
+Copenhagen,Galatasaray,2023-2024,1,0,1
+Sevilla,Lens,2023-2024,1,1,2
+Arsenal,PSV Eindhoven,2023-2024,4,0,4
+Lens,Arsenal,2023-2024,2,1,3
+PSV Eindhoven,Sevilla,2023-2024,2,2,4
+Sevilla,Arsenal,2023-2024,1,2,3
+Lens,PSV Eindhoven,2023-2024,1,1,2
+Arsenal,Sevilla,2023-2024,2,0,2
+PSV Eindhoven,Lens,2023-2024,1,0,1
+Sevilla,PSV Eindhoven,2023-2024,2,3,5
+Arsenal,Lens,2023-2024,6,0,6
+Lens,Sevilla,2023-2024,2,1,3
+PSV Eindhoven,Arsenal,2023-2024,1,1,2
+Real Madrid,Union Berlin,2023-2024,1,0,1
+Braga,Napoli,2023-2024,1,2,3
+Union Berlin,Braga,2023-2024,2,3,5
+Napoli,Real Madrid,2023-2024,2,3,5
+Braga,Real Madrid,2023-2024,1,2,3
+Union Berlin,Napoli,2023-2024,0,1,1
+Napoli,Union Berlin,2023-2024,1,1,2
+Real Madrid,Braga,2023-2024,3,0,3
+Real Madrid,Napoli,2023-2024,4,2,6
+Braga,Union Berlin,2023-2024,1,1,2
+Napoli,Braga,2023-2024,2,0,2
+Union Berlin,Real Madrid,2023-2024,2,3,5
+Real Sociedad,Inter Milan,2023-2024,1,1,2
+Benfica,Red Bull Salzburg,2023-2024,0,2,2
+Red Bull Salzburg,Real Sociedad,2023-2024,0,2,2
+Inter Milan,Benfica,2023-2024,1,0,1
+Inter Milan,Red Bull Salzburg,2023-2024,2,1,3
+Benfica,Real Sociedad,2023-2024,0,1,1
+Real Sociedad,Benfica,2023-2024,3,1,4
+Red Bull Salzburg,Inter Milan,2023-2024,0,1,1
+Benfica,Inter Milan,2023-2024,3,3,6
+Real Sociedad,Red Bull Salzburg,2023-2024,0,0,0
+Inter Milan,Real Sociedad,2023-2024,0,0,0
+Red Bull Salzburg,Benfica,2023-2024,1,3,4
+Feyenoord,Celtic,2023-2024,2,0,2
+Lazio,Atlético Madrid,2023-2024,1,1,2
+Atlético Madrid,Feyenoord,2023-2024,3,2,5
+Celtic,Lazio,2023-2024,1,2,3
+Feyenoord,Lazio,2023-2024,3,1,4
+Celtic,Atlético Madrid,2023-2024,2,2,4
+Atlético Madrid,Celtic,2023-2024,6,0,6
+Lazio,Feyenoord,2023-2024,1,0,1
+Lazio,Celtic,2023-2024,2,0,2
+Feyenoord,Atlético Madrid,2023-2024,1,3,4
+Atlético Madrid,Lazio,2023-2024,2,0,2
+Celtic,Feyenoord,2023-2024,2,1,3
+Milan,Newcastle United,2023-2024,0,0,0
+Paris Saint-Germain,Borussia Dortmund,2023-2024,2,0,2
+Borussia Dortmund,Milan,2023-2024,0,0,0
+Newcastle United,Paris Saint-Germain,2023-2024,4,1,5
+Paris Saint-Germain,Milan,2023-2024,3,0,3
+Newcastle United,Borussia Dortmund,2023-2024,0,1,1
+Borussia Dortmund,Newcastle United,2023-2024,2,0,2
+Milan,Paris Saint-Germain,2023-2024,2,1,3
+Paris Saint-Germain,Newcastle United,2023-2024,1,1,2
+Milan,Borussia Dortmund,2023-2024,1,3,4
+Borussia Dortmund,Paris Saint-Germain,2023-2024,1,1,2
+Newcastle United,Milan,2023-2024,1,2,3
+Young Boys,RB Leipzig,2023-2024,1,3,4
+Manchester City,Red Star Belgrade,2023-2024,3,1,4
+RB Leipzig,Manchester City,2023-2024,1,3,4
+Red Star Belgrade,Young Boys,2023-2024,2,2,4
+RB Leipzig,Red Star Belgrade,2023-2024,3,1,4
+Young Boys,Manchester City,2023-2024,1,3,4
+Manchester City,Young Boys,2023-2024,3,0,3
+Red Star Belgrade,RB Leipzig,2023-2024,1,2,3
+Manchester City,RB Leipzig,2023-2024,3,2,5
+Young Boys,Red Star Belgrade,2023-2024,2,0,2
+RB Leipzig,Young Boys,2023-2024,2,1,3
+Red Star Belgrade,Manchester City,2023-2024,2,3,5
+Barcelona,Antwerp,2023-2024,5,0,5
+Shakhtar Donetsk,Porto,2023-2024,1,3,4
+Antwerp,Shakhtar Donetsk,2023-2024,2,3,5
+Porto,Barcelona,2023-2024,0,1,1
+Barcelona,Shakhtar Donetsk,2023-2024,2,1,3
+Antwerp,Porto,2023-2024,1,4,5
+Shakhtar Donetsk,Barcelona,2023-2024,1,0,1
+Porto,Antwerp,2023-2024,2,0,2
+Shakhtar Donetsk,Antwerp,2023-2024,1,0,1
+Barcelona,Porto,2023-2024,2,1,3
+Porto,Shakhtar Donetsk,2023-2024,5,3,8
+Antwerp,Barcelona,2023-2024,3,2,5
